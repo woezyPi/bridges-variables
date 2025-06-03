@@ -1,0 +1,131 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.1 084b4234",
+    "osm3s": {
+      "timestamp_osm_base": "2024-10-08T12:31:30Z",
+      "timestamp_areas_base": "2024-10-08T09:22:30Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+      {
+        "type": "way",
+        "id": 2304962,
+        "bounds": {
+          "minlat": 43.5848365,
+          "minlon": 1.4285513,
+          "maxlat": 43.5849258,
+          "maxlon": 1.4291650
+        },
+        "nodes": [1411316239, 8358181607, 8358181608, 347443458],
+        "geometry": [
+          { "lat": 43.5849258, "lon": 1.4285513 },
+          { "lat": 43.5848647, "lon": 1.4288569 },
+          { "lat": 43.5848436, "lon": 1.4289831 },
+          { "lat": 43.5848365, "lon": 1.4291650 }
+        ],
+        "tags": {
+          "bridge": "yes",
+          "highway": "secondary",
+          "layer": "1",
+          "maxspeed": "30",
+          "name": "Pont de la Croix de Pierre",
+          "oneway": "yes",
+          "sidewalk:both": "separate",
+          "source:maxspeed": "https://data.toulouse-metropole.fr/explore/dataset/zones-30/",
+          "surface": "asphalt"
+        }
+      },
+      {
+        "type": "way",
+        "id": 2305016,
+        "bounds": {
+          "minlat": 43.5921351,
+          "minlon": 1.4408405,
+          "maxlat": 43.5922362,
+          "maxlon": 1.4419736
+        },
+        "nodes": [1372311413, 5634721418, 5634721419, 5634721420, 57174573],
+        "geometry": [
+          { "lat": 43.5921351, "lon": 1.4419736 },
+          { "lat": 43.5921357, "lon": 1.4418805 },
+          { "lat": 43.5921721, "lon": 1.4414594 },
+          { "lat": 43.5921988, "lon": 1.4412119 },
+          { "lat": 43.5922362, "lon": 1.4408405 }
+        ],
+        "tags": {
+          "bridge": "yes",
+          "cycleway:right": "separate",
+          "highway": "primary",
+          "lanes": "1",
+          "layer": "1",
+          "maxspeed": "30",
+          "maxweight:signed": "no",
+          "name": "Pont Saint-Michel",
+          "old_ref": "N 113a",
+          "oneway": "yes",
+          "parking:lane:both": "no_parking",
+          "shoulder": "no",
+          "sidewalk": "right",
+          "smoothness": "good",
+          "source:maxspeed": "https://data.toulouse-metropole.fr/explore/dataset/zones-30/",
+          "surface": "asphalt"
+        }
+      },
+      {
+        "type": "way",
+        "id": 3178540,
+        "bounds": {
+          "minlat": 49.3053037,
+          "minlon": 2.7079231,
+          "maxlat": 49.3185223,
+          "maxlon": 2.7149282
+        },
+        "nodes": [
+          1511540303, 676536885, 676536876, 1511540299, 1511540304,
+          9460793227, 9460793229, 2421543949, 9460793231, 567991275, 1511540302
+        ],
+        "geometry": [
+          { "lat": 49.3053037, "lon": 2.7149282 },
+          { "lat": 49.3066033, "lon": 2.7142301 },
+          { "lat": 49.3072131, "lon": 2.7139044 },
+          { "lat": 49.3088567, "lon": 2.7130363 },
+          { "lat": 49.3115597, "lon": 2.7116088 },
+          { "lat": 49.3124356, "lon": 2.7111326 },
+          { "lat": 49.3139537, "lon": 2.7103503 },
+          { "lat": 49.3156632, "lon": 2.7094437 },
+          { "lat": 49.3165276, "lon": 2.7089842 },
+          { "lat": 49.3171913, "lon": 2.7086306 },
+          { "lat": 49.3185223, "lon": 2.7079231 }
+        ],
+        "tags": {
+          "alt_name": "LGV Nord;LGV Nord Europe;Ligne Nouvelle 3",
+          "bridge": "viaduct",
+          "bridge:name": "viaduc de Verberie",
+          "electrified": "contact_line",
+          "frequency": "50",
+          "gauge": "1435",
+          "highspeed": "yes",
+          "importance": "national",
+          "layer": "1",
+          "loading_gauge": "TSI_GC",
+          "maxspeed": "300",
+          "name": "Ligne de Gonesse à Lille-Frontière (LGV)",
+          "operator": "SNCF Réseau",
+          "passenger_lines": "2",
+          "railway": "rail",
+          "railway:bidirectional": "regular",
+          "railway:kvb": "yes",
+          "railway:preferred_direction": "backward",
+          "railway:track_ref": "2",
+          "railway:tvm": "430",
+          "ref": "226000",
+          "ref:FR:SNCF_Reseau": "226000,1,V2,0.410,210.580",
+          "ref:FR:SNCF_Reseau:GAIA": "e632d15c-6667-11e3-a7ff-01f464e0362d",
+          "source": "BDOrtho IGN",
+          "usage": "main",
+          "voltage": "25000"
+        }
+      }
+      
+    ]
+  }
