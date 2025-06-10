@@ -17,6 +17,9 @@ Ce projet vise à centraliser et visualiser les ponts de France en les croisant 
 ## Public cible
 Ce projet est destiné aux ingénieurs, collectivités territoriales et chercheurs travaillant sur la gestion et l’entretien des infrastructures.
 
+##DB
+https://land.copernicus.eu/en/products/corine-land-cover/clc2018 (informations sur la couverture et l’usage des sols à travers l’Europe. C’est un inventaire paneuropéen qui cartographie les surfaces terrestres selon différents types d’occupation du sol (forêts, zones urbaines, zones agricoles, etc.) 
+
 ## À venir
 - Ajout d’analyses prédictives sur la santé des ponts.  
 - Création de dashboards interactifs pour le suivi des ponts.  
